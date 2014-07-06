@@ -17,4 +17,5 @@ ex. 'python shortest_detour.py 38.527618 -76.146819 37.421995 -122.084005 37.331
 
 
 Return: None
+
 Prints out the correct response.
