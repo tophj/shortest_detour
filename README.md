@@ -1,7 +1,7 @@
 
 ## Shortest Detour
 
-Programming Challenge from lyft.com :
+Programming Challenge :
 
 "Calculate the detour distance between two different rides. Given four latitude / longitude 
 pairs, where driver one is traveling from point A to point B and driver two is traveling from 
